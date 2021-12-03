@@ -1,4 +1,30 @@
-h1 {
+.App {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(68, 68, 68);
+  color: rgb(194, 194, 194);
+}
+
+.nav-links{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.LinkStyle {
   color: white;
-  background-color: black;
+  text-decoration: none;
+}
+
+.LinkStyle:hover {
+  color: rgb(161, 161, 161);
+  text-decoration: none;
 }

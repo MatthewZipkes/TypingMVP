@@ -3,17 +3,20 @@ const app = express();
 const socketio = require('socket.io');
 const mongoose = require('mongoose');
 const Game = require('../schema/game');
-const getQuote = require('./quotes')
-const port = 3001;
+const getQuote = require('../src/quotes')
+const path = require('path');
+const port = 3000;
 
 app.use(express.json())
 app.use(express.static(__dirname + '/../dist'))
 
-// app.get('/', (req, res) => {
-//   getQuote();
-//   // res.send(quote);
-// })
-
+app.get('/*', function(req, res) {
+  res.sendFile(path.join(__dirname, '/../dist/index.html'), function(err) {
+    if (err) {
+      res.status(500).send(err)
+    }
+  })
+})
 getQuote();
 const expressServer = app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
