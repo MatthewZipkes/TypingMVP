@@ -21,7 +21,7 @@ function Practice() {
 
 
     return (
-        <>
+        <div className='words'>
           {quotes.map(word => (
             <div className='wordStyle'>
               {word.split('').map(letter => {
@@ -31,7 +31,7 @@ function Practice() {
               })}
             </div>
          ))}
-        </>
+        </div>
     )
 }
 
