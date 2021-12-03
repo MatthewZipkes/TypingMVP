@@ -28,3 +28,7 @@ nav{
   color: rgb(161, 161, 161);
   text-decoration: none;
 }
+
+.wordStyle {
+  display: flex;
+}
