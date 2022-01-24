@@ -1,5 +1,4 @@
-# TypingMVP
-# 🎶 Instrument Petting Zoo 🎷
+# Typing Game
 
 <br />
 
