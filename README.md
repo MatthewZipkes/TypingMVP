@@ -133,6 +133,12 @@ React Router was implemented to create a seamless UI experience for users.
 > [quotable](https://github.com/lukePeavey/quotable)
 
 <br>
+<div align="center">
+<img src="READMEimages/Router.gif" width="600" height="auto" alt="Page Navigation"/>
+</div><br><br>
+
+I used a third party API to create to generate the qoutes due to time constraint and it allowed me to specify how many characters I want in each qoute which was nice for the MVP of this project.
+<br>
 
 <div align="center">
 <img src="READMEimages/Assesment.gif" width="600" height="auto" alt="Shows Related Product features"/>
