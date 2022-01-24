@@ -34,7 +34,7 @@
 
 # Contributor
 
-### Alicia Villanueva - aliciav.texas@gmail.com
+### Matthew Zipkes - matthewzipkes@gmail.com
 
  <img src="READMEimages/Alicia-Headshot.jpeg" alt="Logo" width="80" height="80">
 
