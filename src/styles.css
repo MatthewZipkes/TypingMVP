@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  background-color: rgb(68, 68, 68);
+}
 .App {
   text-align: center;
   font-family: 'Lato', sans-serif;
@@ -32,20 +36,82 @@ nav{
 }
 
 .wordStyle {
-  margin: 0.25rem;
-    color: rgb(153, 153, 153);
-    font-variant: no-common-ligatures;
+    color: rgb(114, 114, 114);
     border-bottom: 2px solid transparent;
-    line-height: 1rem;
+    line-height: 2rem;
+    font-size: 1.5rem;
 }
 
 .words {
-  height: fit-content;
-    height: -moz-fit-content;
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
-    align-content: flex-start;
-    user-select: none;
-    padding-bottom: 1em;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1.2em;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    margin-top: 5%;
+}
+
+.letter-space {
+  margin: 0.25rem;
+}
+.correct {
+  color: white
+}
+
+.incorrect {
+  color: rgb(228, 72, 72)
+}
+
+.incorrect-word {
+  border-bottom: solid 2px red;
+}
+
+.cursor {
+  border-right: solid 1px white;
+}
+.before-cursor {
+  border-left: solid 1px red;
+}
+
+.home-textStyle{
+  color: white;
+  margin-top: 2%;
+}
+
+.home-text{
+  margin-left: 10%;
+  width: 80%;
+}
+
+.formText {
+  color:white;
+  margin-top: 3%;
+}
+
+.formPosition {
+  margin-top: 3%;
+}
+
+.inputText {
+  color: white;
+}
+
+.submitText {
+  color: white;
+}
+.reset {
+  margin-top: 5%;
+  font-size: 1.5rem;
+  color: rgb(228, 228, 228);
+}
+
+.results {
+  font-size: 1.5rem;
+  color: rgb(228, 228, 228);
+}
+
+.resultsContainer {
+  margin-top: 3%;
 }
