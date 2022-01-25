@@ -35,7 +35,7 @@
 
 ### Matthew Zipkes - matthewzipkes@gmail.com
 
- <img src="READMEimages/Alicia-Headshot.jpeg" alt="Logo" width="80" height="80">
+ [Imgur](https://i.imgur.com/tegDTCR.jpg)
 
 [![linkedin-shield]][matthew-linkedin]
 [![github-shield]][matthew-github]
