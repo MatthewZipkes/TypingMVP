@@ -35,6 +35,8 @@
 
 ### Matthew Zipkes - matthewzipkes@gmail.com
 
+<a href="https://imgur.com/tegDTCR"><img src="https://i.imgur.com/tegDTCR.jpg" title="source: imgur.com" /></a>
+
 [![linkedin-shield]][matthew-linkedin]
 [![github-shield]][matthew-github]
 <br>
