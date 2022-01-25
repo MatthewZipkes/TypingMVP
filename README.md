@@ -122,7 +122,7 @@ This is an example of how to list things you need to use the software and how to
 
 <br>
 <div align="center">
-<img src="READMEimages/Router.gif" width="600" height="auto" alt="Page Navigation"/>
+<a href="https://gyazo.com/737d0db8bf950e3aba31724dd40e5495"><img src="https://i.gyazo.com/737d0db8bf950e3aba31724dd40e5495.gif" alt="Image from Gyazo" width="1280"/></a>
 </div><br><br>
 
 React Router was implemented to create a seamless UI experience for users.
