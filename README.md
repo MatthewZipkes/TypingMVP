@@ -133,7 +133,7 @@ React Router was implemented to create a seamless UI experience for users.
 
 <br>
 <div align="center">
-<img src="READMEimages/Router.gif" width="600" height="auto" alt="Page Navigation"/>
+<a href="https://gyazo.com/6d7a59f8cf046207fd50ffdbfc26a0c1"><img src="https://i.gyazo.com/6d7a59f8cf046207fd50ffdbfc26a0c1.gif" alt="Image from Gyazo" width="1280"/></a>
 </div><br><br>
 
 I used a third party API to generate the qoutes due to time constraint and it allowed me to specify how many characters I want in each qoute which was nice for the MVP of this project.
