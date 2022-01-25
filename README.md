@@ -49,7 +49,7 @@
 
 <br>
 <div align="center">
-<img src="READMEimages/screenshot.png" width="600" height="auto" alt="Shows Product Overview features"/>
+<a href="https://gyazo.com/96d9a0b99d4b58717b6206ca889b051d"><img src="https://i.gyazo.com/96d9a0b99d4b58717b6206ca889b051d.gif" alt="Image from Gyazo" width="1280"/></a>
 </div><br><br>
 
 Typing Game was a two-day challenge to create a Minimum Viable Product from an empty repo to a a Full Stack Application. Emphasis was placed on learning one new technology and to incorporate that into the project. I had planned on use websockets to create a live room experience to play against other users, but as the timeline approached I had to pivot and focus on making it a single player game. I used React Router as my new Technology to create a better UI experience when switching between pages. Typing Game is a web-application project that will continue to grow and develop towards a polished product.
