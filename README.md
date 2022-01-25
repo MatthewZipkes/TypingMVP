@@ -1,8 +1,6 @@
 # Typing Game
 
 <br />
-
-<div align="left"> <em>A Typing Game to Become a Better Typer the More You Play </em></div>
 <br>
 
 <!-- TABLE OF CONTENTS -->
@@ -59,7 +57,7 @@ Typing Game was a two-day challenge to create a Minimum Viable Product from an e
 # Overview
 
 <br>
-
+<div align="left"> <em>A Typing Game to Become a Better Typer the More You Play </em></div>
 > "This project became a dream of mine when I was learning to type, I always thought to myself that these videos and exercises were boring and that I wished that there was something that could make this more enjoyable. I had tried some of the existing typing games like TypeRacer which is a typing game where you can race against friends or random people online, but the typing didn't feel to smooth and it didn't have a great user experience for me. I also tried Monkey Type which I had a better user experience with but I could only play against myself. With this project, I am to create a better typing experience and to allow users to play with there friends to compete in type racing."
 
 <br>
