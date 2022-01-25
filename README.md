@@ -2,7 +2,7 @@
 
 <br />
 
-<h2 align="center"> Typing game to become a better typer the more you play </h2>
+<h2 align="center"> Typing Game to Become a Better Typer the More You Play </h2>
 <br>
 
 <!-- TABLE OF CONTENTS -->
