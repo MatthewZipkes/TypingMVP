@@ -145,7 +145,7 @@ This page provides a space for the user to read what the application is about an
 <br><br>
 
 <div align="center">
-<img src="READMEimages/Director.gif" width="600" height="auto" alt="Director Page"/>
+<a href="https://gyazo.com/e3462dd73529d303b724dd15275abecc"><img src="https://i.gyazo.com/e3462dd73529d303b724dd15275abecc.gif" alt="Image from Gyazo" width="1280"/></a>
 </div><br><br>
 
 ## Next Goals
