@@ -55,10 +55,10 @@ Typing Game was a two-day challenge to create a Minimum Viable Product from an e
 <br>
 
 # Overview
+<br>
 
-<br>
-<br>
 > "This project became a dream of mine when I was a college student first assessing incoming beginner band students. My hand was cramped from hours of writing notes on a student's sheet and I yearned to assess students more appropriately without the guilt of writing down a 1 out of 5 on their dream instrument. This thought remained with me into my official career as a band director and the process of assessing incoming beginners had not been improved. Band programs use an outdated system that requires families to register their students through a third-party application, require instrument assessors to use pencil and paper for student scores, and a final checkout process on a band program management application that the director must manually fill in the student's registered information and lastly their assessed scores. With this project, I aim to support hard-working directors by providing a modernized solution to this yearly process and relieving them greatly of the stress of this process. Allowing more time for the excitement and joy of placing a student on their very first band instrument."
+
 <br>
 
 ### Tech Stack
