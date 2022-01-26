@@ -113,40 +113,6 @@ This is an example of how to list things you need to use the software and how to
 
 <br><br>
 
-# Module Break Down
-
-> ## Page Navigation
->
-> React Router
-
-<br>
-<div align="center">
-<a href="https://gyazo.com/737d0db8bf950e3aba31724dd40e5495"><img src="https://i.gyazo.com/737d0db8bf950e3aba31724dd40e5495.gif" alt="Image from Gyazo" width="1280"/></a>
-</div><br><br>
-
-React Router was implemented to create a seamless UI experience for users.
-<br>
-> ## Typing Prompt
->
-> [quotable](https://github.com/lukePeavey/quotable)
-
-<br>
-<div align="center">
-<a href="https://gyazo.com/6d7a59f8cf046207fd50ffdbfc26a0c1"><img src="https://i.gyazo.com/6d7a59f8cf046207fd50ffdbfc26a0c1.gif" alt="Image from Gyazo" width="1280"/></a>
-</div><br><br>
-
-I used a third party API to generate the qoutes due to time constraint and it allowed me to specify how many characters I want in each qoute which was nice for the MVP of this project.
-<br>
-
-# Landing Page
-
-This page provides a space for the user to read what the application is about and to subscribe to the web application so that when there are updates to it, they will get an email notifying them.
-<br><br>
-
-<div align="center">
-<a href="https://gyazo.com/e3462dd73529d303b724dd15275abecc"><img src="https://i.gyazo.com/e3462dd73529d303b724dd15275abecc.gif" alt="Image from Gyazo" width="1280"/></a>
-</div><br><br>
-
 ## Next Goals
 - Google Firebase User Authentication
 - Persist User Log In Through Local Storage
